@@ -1,0 +1,93 @@
+{
+  "global": {
+    "title": "تطبيقي",
+    "description": "تطبيق متعدد اللغات"
+  },
+  "home": {
+    "herotitle": "تدبير",
+    "herotitlehighlight": "اللوائح الانتخابية",
+    "herotitlesub": "العامة",
+    "herodescription": "منصة حديثة لإدارة واستشارة السجلات الانتخابية. عمالة وجدة أنكاد.",
+    "herologin": "تسجيل الدخول",
+    "heromore": "مزيد من المعلومات"
+  },
+  "menu": {
+    "admin": "تدبير المستعملين",
+    "search": "البحث",
+    "add": "طلب تسجيل",
+    "manage": "إدارة التسجيلات",
+    "print": "طباعة",
+    "statistic": "إحصائيات",
+    "disconnect":"تسجيل الخروج"
+  },
+  "search":{
+    "advancedSearch": "بحث متقدم",
+    "searchCriteria": "معايير البحث",
+    "byCIN": "البحث برقم البطاقة الوطنية",
+    "byName": "البحث بالاسم",
+    "cinLabel": "رقم البطاقة الوطنية",
+    "cinPlaceholder": "أدخل رقم البطاقة...",
+    "nomLabel": "الاسم العائلي",
+    "nomPlaceholder": "أدخل الاسم العائلي...",
+    "prenomLabel": "الاسم الشخصي",
+    "prenomPlaceholder": "أدخل الاسم الشخصي...",
+    "searchButton": "ابحث",
+    "resetButton": "إعادة تعيين",
+    "resultsTitle": "نتائج البحث",
+    "resultsCount": "(نتيجة/نتائج) تم العثور عليها",
+    "noResults": {
+      "title": "لم يتم العثور على نتائج",
+      "subtitle": "حاول تعديل معايير البحث الخاصة بك"
+    },
+    "searchError": "فشل البحث، يرجى المحاولة مرة أخرى",
+    "tryAgain": "يرجى إعادة محاولة البحث",
+    "searching": "جارٍ البحث...",
+    "cinRequired": "رقم البطاقة الوطنية مطلوب",
+    "nameRequired": "مطلوب إدخال الاسم أو الاسم العائلي على الأقل",
+    "table": {
+      "cin": "رقم البطاقة الوطنية",
+      "nom": "الاسم العائلي",
+      "prenom": "الاسم الشخصي",
+      "birthDate": "تاريخ الميلاد",
+      "adresse": "العنوان",
+      "actions": "الإجراءات",
+      "sex":"الجنس",
+      "view": "عرض",
+      "edit": "تعديل"
+    }
+  },
+  "login":{
+    "title": "تسجيل الدخول إلى حسابك الشخصي",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "forgot": "هل نسيت كلمة المرور؟",
+    "invalid": "كلمة المرور أو اسم المستخدم غير صحيح!",
+    "submit": "تسجيل الدخول",
+    "passwordRequired":"كلمة المرور فارغة",
+    "usernameRequired":"اسم المستخدم فارغة",
+    "loading": "جارٍ تسجيل الدخول..."
+  },
+  "footer":{
+    "footertitle": "القوائم الانتخابية",
+    "footerdescription": "منصة لإدارة السجلات الانتخابية لعمالة وجدة أنكاد.",
+    
+    "footernavtitle": "التنقل",
+    "footernavhome": "الصفحة الرئيسية",
+    "footernavregister": "تسجيل",
+    "footernavconsult": "الاستشارة",
+    "footernavhelp": "مساعدة",
+    
+    "footercontacttitle": "اتصال",
+    "footercontactlocation": "وجدة، المغرب",
+    "footercontactphone": "+212 536 XX XX XX",
+    "footercontactemail": "contact@electoral.ma",
+    
+    "footerbottomcopyright": "© 2025 عمالة وجدة أنكاد. جميع الحقوق محفوظة.",
+    "footerbottomprivacy": "سياسة الخصوصية",
+    "footerbottomterms": "شروط الاستخدام"
+  },
+  "languageSwitcher": {
+    "french": "الفرنسية",
+    "arabic": "العربية"
+  }
+}

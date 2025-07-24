@@ -1,0 +1,93 @@
+{
+  "global": {
+    "title": "Mon Application",
+    "description": "Une application multilingue"
+  },
+  "home": {
+    "herotitle": "Gestion des",
+    "herotitlehighlight": "Listes Électorales",
+    "herotitlesub": "Générales",
+    "herodescription": "Plateforme moderne pour la gestion et la consultation des registres électoraux. Préfecture Oujda Angad.",
+    "herologin": "Se connecter",
+    "heromore": "Plus d'infos"
+  },
+  "search":{
+    "advancedSearch": "Recherche Avancée",
+    "searchCriteria": "Critères de recherche",
+    "byCIN": "Recherche par CIN",
+    "byName": "Recherche par Nom",
+    "cinLabel": "Numéro CIN",
+    "cinPlaceholder": "Entrez le numéro CIN...",
+    "nomLabel": "Nom",
+    "nomPlaceholder": "Entrez le nom...",
+    "prenomLabel": "Prénom",
+    "prenomPlaceholder": "Entrez le prénom...",
+    "searchButton": "Rechercher",
+    "resetButton": "Réinitialiser",
+    "resultsTitle": "Résultats de recherche",
+    "resultsCount": "résultat(s) trouvé(s)",
+    "noResults": {
+      "title": "Aucun résultat trouvé",
+      "subtitle": "Essayez d'ajuster vos critères de recherche"
+    },
+    "searchError": "Échec de la recherche, veuillez réessayer",
+    "tryAgain": "Veuillez réessayer votre recherche",
+    "searching": "Recherche en cours...",
+    "cinRequired": "Le CIN est requis",
+    "nameRequired": "Au moins un champ de nom est requis",
+    "table": {
+      "cin": "CIN",
+      "nom": "Nom",
+      "prenom": "Prénom",
+      "birthDate": "Date de Naissance",
+      "adresse": "adresse",
+      "actions": "Actions",
+      "sex":"sex",
+      "view": "Voir",
+      "edit": "Modifier"
+    }
+  },
+  "menu": {
+    "admin": "Gestion des utilisateurs",
+    "search": "Recherche",
+    "add": "Demande d'inscription",
+    "manage": "Gérer les inscriptions",
+    "print": "Imprimer",
+    "statistic": "Statistiques",
+    "disconnect" : "Se déconnecter"
+  },
+  "login":{
+    "title": "Connexion à votre espace personnel",
+    "username": "Identifiant",
+    "password": "Mot de passe",
+    "forgot": "Mot de passe oublié ?",
+    "invalid":"mot de passe ou identifiant invalide !",
+    "submit": "Se connecter",
+    "passwordRequired":"Le mot de passe est vide",
+    "usernameRequired":"Identifiant est vide",
+    "loading": "Connexion..."
+  },
+  "footer":{
+    "footertitle": "Listes Électorales",
+    "footerdescription": "Plateforme de gestion des registres électoraux pour la Préfecture Oujda Angad.",
+    
+    "footernavtitle": "Navigation",
+    "footernavhome": "Accueil",
+    "footernavregister": "Inscription",
+    "footernavconsult": "Consultation",
+    "footernavhelp": "Aide",
+    
+    "footercontacttitle": "Contact",
+    "footercontactlocation": "Oujda, Maroc",
+    "footercontactphone": "+212 536 XX XX XX",
+    "footercontactemail": "contact@electoral.ma",
+    
+    "footerbottomcopyright": "© 2025 Préfecture Oujda Angad. Tous droits réservés.",
+    "footerbottomprivacy": "Politique de confidentialité",
+    "footerbottomterms": "Conditions d'utilisation"
+  },
+  "languageSwitcher": {
+    "french": "Français",
+    "arabic": "Arabe"
+  }
+}

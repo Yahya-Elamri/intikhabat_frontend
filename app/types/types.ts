@@ -1,0 +1,1 @@
+type Role = "Admin" | "Search" | "Add" | "Manage" | "Print" | "Statistic";
