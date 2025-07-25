@@ -15,7 +15,7 @@ const Header = () => {
   
   const handleLogout = async () => {
     try {
-      const response = await fetch("http://localhost:8080/auth/disconnect", {
+      const response = await fetch("http://localhost:8080/api/v1/auth/disconnect", {
         method: "POST",
         credentials: "include",
       });

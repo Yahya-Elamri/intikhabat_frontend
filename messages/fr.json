@@ -11,6 +11,49 @@
     "herologin": "Se connecter",
     "heromore": "Plus d'infos"
   },
+  "unauth": {
+    "title": "Accès non autorisé",
+    "description": "Vous n'avez pas la permission de voir cette page."
+  },
+  "admin": {
+    "Employer": "Gestion des employeurs",
+    "Add": "Ajouter un nouvel employeur",
+    "EditEmployer": "Modifier l'employeur",
+    "Update": "Mettre à jour",
+    "Create": "Créer",
+    "Cancel": "Annuler",
+    "Search": "Rechercher des employeurs...",
+    "List": "Liste des employeurs",
+    "Notfound": "Aucun employeur trouvé",
+    "Are": "Êtes-vous sûr de vouloir supprimer cet employeur ?",
+    "Edit": "Modifier",
+    "Delete": "Supprimer",
+    "menu": {
+      "Admin": "Gestion des utilisateurs",
+      "Search": "Recherche",
+      "Add": "Demande d'inscription",
+      "Manage": "Gérer les inscriptions",
+      "Print": "Imprimer",
+      "Statistic": "Statistiques"
+    },
+
+    "Name": "Nom complet",
+    "CIN": "CIN",
+    "Birth Date": "Date de naissance",
+    "Phone": "Téléphone",
+    "Username": "Nom d'utilisateur",
+    "Roles": "Rôles",
+    "Actions": "Actions",
+
+    "Nom": "Nom",
+    "Prenom": "Prénom",
+    "Cin": "CIN",
+    "DateNaissance": "Date de naissance",
+    "Telephone": "Téléphone",
+    "Password": "Mot de passe",
+    "Rolesseparated": "Rôles (séparés par des virgules)",
+    "leaveblank": "(laisser vide pour conserver le mot de passe actuel)"
+  },
   "search":{
     "advancedSearch": "Recherche Avancée",
     "searchCriteria": "Critères de recherche",

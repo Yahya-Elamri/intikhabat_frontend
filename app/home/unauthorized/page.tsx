@@ -1,17 +1,20 @@
 'use client';
-
-import { useEffect, useState } from 'react';
-import { useRouter } from 'next/navigation';
-import { hasAccess } from '@/app/utils/role-guard';
-import { getRolesFromToken } from '@/app/utils/getRole';
-import { getToken } from '@/app/utils/auth';
-import AuthLoader from '@/components/AuthLoader';
+import { X } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 
 export default function AdminDashboardPage() {
+  const t = useTranslations('unauth');
   return (
-    <div className="p-6">
-      <h1 className="text-xl font-bold">nooooo</h1>
-      <p>unauthorized</p>
-    </div>
+       <div className="min-h-[calc(100vh-170px)] flex items-start justify-start px-6 py-8 container mx-auto">
+        <div className="bg-white rounded-lg p-6 max-w-sm w-full border-l-4 border-red-400">
+          <div className="flex items-center gap-5 mb-3">
+            <div className="p-2 rounded-full bg-red-100 hover:bg-red-200 cursor-pointer transition-colors">
+              <X className="w-8 h-8 text-red-600" />
+            </div>
+            <h2 className="text-lg font-semibold text-gray-900">{t('title')}</h2>
+          </div>
+          <p className="text-gray-600 text-sm leading-relaxed">{t('description')}</p>
+        </div>
+      </div>
   );
 }
