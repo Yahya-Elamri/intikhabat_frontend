@@ -340,7 +340,7 @@ export default function SearchPage() {
                           {result.adresse}
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                          {result.sex}
+                          {t(`${result.sex}`)}
                         </td>
                       </tr>
                     ))}
