@@ -302,7 +302,7 @@ export default function EmployersAdminPage() {
             />
           </div>
           
-          <div className="space-y-2 md:col-span-2">
+          <div className="space-y-2 md:col-span-2 border p-4 rounded-md">
             <label className="block text-sm font-medium text-gray-700 mb-2">
               {t('Roles')} *
             </label>
@@ -324,7 +324,7 @@ export default function EmployersAdminPage() {
             </div>
           </div>
           
-          <div className="md:col-span-2 flex space-x-3 pt-4">
+          <div className="md:col-span-2 flex gap-2 pt-4">
             <button
               type="submit"
               disabled={isSubmitting || selectedRoles.length === 0}

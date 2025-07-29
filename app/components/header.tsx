@@ -1,9 +1,8 @@
 "use client"
 import React, { useState } from 'react';
-import { Menu, X, ChevronDown, Settings, HelpCircle } from 'lucide-react';
+import { Menu, X, Settings, HelpCircle } from 'lucide-react';
 import Image from './image';
 import { useRouter } from 'next/navigation';
-import NonlogedHeader from './NonlogedHeader';
 import { useTranslations } from 'next-intl';
 import Link from 'next/link';
 
