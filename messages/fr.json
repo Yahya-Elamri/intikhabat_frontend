@@ -227,6 +227,25 @@
     "footerbottomprivacy": "Politique de confidentialité",
     "footerbottomterms": "Conditions d'utilisation"
   },
+  "print": {
+    "title": "Liste des personnes inscrites sur les listes électorales générales",
+    "selectJamaa": "Sélectionner Jamaa",
+    "downloadPdf": "Télécharger PDF",
+    "generating": "Génération en cours...",
+    "id": "ID",
+    "cin": "CIN",
+    "nom": "Nom",
+    "prenom": "Prénom",
+    "birthDate": "Date de Naissance",
+    "address": "Adresse",
+    "noData": "Aucune donnée disponible",
+    "year": "Année",
+    "jamaa": "Jamaa",
+    "montakhibList": "liste-montakhibs",
+    "printDate": "Date d'impression",
+    "totalRecords": "Nombre total d'enregistrements",
+    "language": "Français"
+  },
   "dashboard": {
     "welcome": "Bienvenue",
     "redirecting": "Redirection vers votre tableau de bord..."

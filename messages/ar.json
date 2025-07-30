@@ -235,6 +235,25 @@
     "footerbottomprivacy": "سياسة الخصوصية",
     "footerbottomterms": "شروط الاستخدام"
   },
+  "print": {
+    "title": "لائحة المسجلين في اللوائح الإنتخابية العامة",
+    "selectJamaa": "اختر الجماعة",
+    "downloadPdf": "تحميل PDF",
+    "generating": "جاري التوليد...",
+    "id": "المعرف",
+    "cin": "رقم ب ت و",
+    "nom": "الاسم",
+    "prenom": "النسب",
+    "birthDate": "تاريخ الازدياد",
+    "address": "العنوان",
+    "noData": "لا توجد بيانات",
+    "year": "السنة",
+    "jamaa": "الجماعة",
+    "montakhibList": "قائمة المنتخبين",
+    "printDate": "تاريخ الطباعة",
+    "totalRecords": "مجموع التسجيلات",
+    "language": "العربية"
+  },
    "dashboard": {
     "welcome": "مرحبا بك",
     "redirecting": "يتم توجيهك إلى لوحة التحكم الخاصة بك..."
