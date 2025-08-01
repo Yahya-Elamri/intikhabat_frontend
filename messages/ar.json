@@ -254,6 +254,30 @@
     "totalRecords": "مجموع التسجيلات",
     "language": "العربية"
   },
+  "stats": {
+    "title": "إحصائيات المنتخبين",
+    "subtitle": "تحليل كامل لبيانات المنتخبين",
+    "noData": "لا توجد بيانات متاحة",
+    "totalMontakhibs": "إجمالي المنتخبين",
+    "hommes": "الرجال",
+    "femmes": "النساء",
+    "genderDistribution": "توزيع حسب الجنس",
+    "jamaaDistribution": "توزيع حسب الجماعة",
+    "educationDistribution": "توزيع حسب المستوى التعليمي",
+    "ageGroupDistribution": "توزيع حسب الفئة العمرية",
+    "montakhibCount": "عدد المنتخبين",
+    "percentage": "النسبة المئوية",
+    "jamaa": "الجماعة",
+    "education": "المستوى التعليمي",
+    "ageDistribution": "توزيع الأعمار",
+    "sans": "بدون تعليم",
+    "primaire": "ابتدائي",
+    "college": "إعدادي",
+    "lycee": "ثانوي",
+    "universitaire": "جامعي",
+    "homme": "رجل",
+    "femme": "امرأة"
+  },
    "dashboard": {
     "welcome": "مرحبا بك",
     "redirecting": "يتم توجيهك إلى لوحة التحكم الخاصة بك..."

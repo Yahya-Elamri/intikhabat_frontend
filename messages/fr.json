@@ -246,6 +246,30 @@
     "totalRecords": "Nombre total d'enregistrements",
     "language": "Français"
   },
+  "stats": {
+    "title": "Statistiques des électeurs",
+    "subtitle": "Analyse complète des données des électeurs",
+    "noData": "Aucune donnée disponible",
+    "totalMontakhibs": "Total d'électeurs",
+    "hommes": "Hommes",
+    "femmes": "Femmes",
+    "genderDistribution": "Distribution par Genre",
+    "jamaaDistribution": "Distribution par Jamaa",
+    "educationDistribution": "Distribution par Éducation",
+    "ageGroupDistribution": "Distribution par Tranche d'Âge",
+    "montakhibCount": "Nombre d'électeurs",
+    "percentage": "Pourcentage",
+    "jamaa": "Jamaa",
+    "education": "Niveau d'Éducation",
+    "ageDistribution": "Distribution par Âge",
+    "sans": "Sans éducation",
+    "primaire": "Primaire",
+    "college": "Collège",
+    "lycee": "Lycée",
+    "universitaire": "Universitaire",
+    "homme": "Homme",
+    "femme": "Femme"
+  },
   "dashboard": {
     "welcome": "Bienvenue",
     "redirecting": "Redirection vers votre tableau de bord..."
